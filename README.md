@@ -1,4 +1,4 @@
-#Airbnb listings data analysis
+# Airbnb listings data analysis
 
 This project is an exploratory data analysis (EDA) of Airbnb listings data, aiming to understand trends in pricing, availability, ratings, and neighborhood-specific insights. The analysis includes:
 
